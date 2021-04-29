@@ -1,6 +1,14 @@
 @media(max-width:768px){
-    .center-div{
+    /* .center-div{
         top: 30%;
+    } */
+
+    .center-div h1{
+        font-size: 2.5em;
+    }
+    
+    .center-div p {
+        font-size: 1.2em;
     }
 
     .nav-item{
@@ -19,6 +27,13 @@
 
 }
 @media(max-width:425px){
+    .center-div h1{
+        font-size: 2.7em;
+    }
+    
+    .center-div p {
+        font-size: 1.1em;
+    }
     .section-3 h1.count{
         font-size: 25px;
     }
